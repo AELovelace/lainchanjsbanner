@@ -11,7 +11,7 @@ path where you story your webring banners. It's super easy in notepad++, it's ho
 
 Once you hace that done, open the webpage you want the banner to show on and paste tje following script tag in
 your header:
-<script src="/engine/banners/lainchan.js"></script>
+```<script src="/engine/banners/lainchan.js"></script>```
 
 Then, move to where you want the banner to show up and paste this in:
 
