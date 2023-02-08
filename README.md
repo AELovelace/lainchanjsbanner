@@ -15,12 +15,14 @@ your header:
 
 Then, move to where you want the banner to show up and paste this in:
 
+```
 <div id="lainchan-banner" style ="background-color: black; border: 1px solid white;">
     <h4 style ="background-color: black; border: 2px ridge;">Random Webring Site</h4>
     <p id="quotes" style ="background-color: black;text-align: center;"></p>
     <p id="author" style ="background-color: black; border: 1px ridge;"></p>
     <p>Hint: if using ff, hold ctrl to open in a new tab</p>
 </div>
+```
 
 That's it! it should work!
 
